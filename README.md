@@ -26,3 +26,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+more custom starter: [see](https://git.garena.com/zhiyuan.fu/starter)
